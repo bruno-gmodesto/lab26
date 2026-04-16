@@ -123,4 +123,4 @@ Para um passo a passo detalhado (com prints, dicas e solucao de problemas), veja
 ---
 
 > Projeto original: [davips/lab](https://github.com/davips) — UTFPR  
-> Port para Windows (WSL): Bruno Azevedo
+> Port para Windows (WSL): Bruno
